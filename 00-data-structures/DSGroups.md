@@ -1,4 +1,6 @@
 # Week5 Data Structure Groups
+| Student  1       | Student     2      |
+| ------------- |:-------------:|
 Ramon Mendoza (Python) | Keith Eckert (Python) |
 David Snowberger (Python) | Gene Pieterson (Python) |
 Shannon Tully (Python) | Tiger Hsu (.NET) |
